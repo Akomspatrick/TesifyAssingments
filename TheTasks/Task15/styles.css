@@ -1,0 +1,47 @@
+body{
+    height: 100vh;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    padding:0 auto;
+    border: 10px;
+    border-color:blueviolet;
+    border-style:solid;
+    border-radius: 50%;
+    text-align:center;
+    align-content: center;
+    justify-content: center;
+    display:flex;
+    margin: 40px;
+    background-color: brown;
+
+  
+ 
+}
+.login{
+    background-color: blue;
+    width: 50vh;
+    height: 75vh;
+    border: 20px;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 10%;
+    align-self: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.box .hover {
+    color:red;
+}
+.sty{
+
+    align-self: center;
+    color:blue;
+
+    font-size: x-large;
+    font-style: oblique;
+   font-weight: 900;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
