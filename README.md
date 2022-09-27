@@ -1,5 +1,7 @@
 
-#Assignments From Testify Academy
-## Various Tasks*
+#**Assignments From Testify Academy**
 
-## Challenges
+**There are two folders in the repository**
+1Various Tasks
+
+2Challenges
