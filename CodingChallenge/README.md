@@ -1,6 +1,6 @@
 # How to use multiple github account on the same system
 
-## Valuable documents from ==>
+## Valuable documents from. ==>
 
 - https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
 - https://gist.github.com/jexchan/2351996
