@@ -20,3 +20,7 @@ class TestPython3B26(unittest.TestCase) :
 
     def test_StringCompareTwoDiffDataTypesBeFalse(self):
         self.assertFalse(Python3B26.NumberCompare('4',4),False)
+
+
+if __name__ == '__main__':
+    unittest.main()
