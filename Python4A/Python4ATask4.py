@@ -31,7 +31,9 @@ def main():
     #I will paste the password
     submitButton=locateElementbyName(browser,'login')
     time.sleep(3)
-    submitButton.click();
+    # I dissable this click because the password is expected to be pasted
+    # There is also an allow cookies setting page that must be clicked off 
+    #submitButton.click();
 
     time.sleep(5)
     browser.close()
