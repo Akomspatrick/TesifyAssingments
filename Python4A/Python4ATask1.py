@@ -6,3 +6,4 @@
 
 print('Hello World')
 print('Oladeji Patrick')
+print( sys.executable ) 
